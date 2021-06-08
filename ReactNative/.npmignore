@@ -1,0 +1,12 @@
+/android/local.properties
+/node_modules
+/.idea
+/.circleci
+/.DS_Store
+/android/build
+/android/.idea
+/android/.gradle
+/android/gradlew
+/android/gradlew.bat
+/android/gradle
+.local-pack/

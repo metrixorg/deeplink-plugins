@@ -1,0 +1,27 @@
+{
+  "name": "@metrixorg/deeplink-react-native-plugin",
+  "version": "0.1.0",
+  "description": "Metrix Deeplink React-native plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "git checkout master && git pull && git merge develop",
+    "major": "npm version major",
+    "minor": "npm version minor",
+    "patch": "npm version patch"
+  },
+  "author": "Metrix",
+  "license": "Apache 2.0",
+  "keywords": [
+    "metrix",
+    "deeplink"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/metrixorg/deeplink-plugins/tree/master/ReactNative"
+  },
+  "bugs": {
+    "url": "https://github.com/metrixorg/deeplink-plugins/issues"
+  },
+  "homepage": "https://metrix.ir"
+}
