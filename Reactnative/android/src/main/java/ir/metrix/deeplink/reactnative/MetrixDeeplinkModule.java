@@ -1,7 +1,7 @@
 package ir.metrix.deeplink.reactnative;
 
-import com.facebook.react.bridge.ReactApplicationContext;
 import com.facebook.react.bridge.ReactContextBaseJavaModule;
+import com.facebook.react.bridge.ReactApplicationContext;
 
 public class MetrixDeeplinkModule extends ReactContextBaseJavaModule {
 
