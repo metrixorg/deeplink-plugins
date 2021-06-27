@@ -1,6 +1,6 @@
 {
   "name": "@metrixorg/deeplink-react-native-plugin",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Metrix Deeplink React-native plugin",
   "main": "index.js",
   "scripts": {
